@@ -5,14 +5,8 @@ open System
 
 let SplitString () =
     let array = Console.ReadLine().Split ' '
-    let code = array.[0]
     let quantity = int array.[1]
     let price = float array.[2]
-    code, quantity, price
+    float quantity * price
 
-let code, quantity, price = SplitString()
-let totalPrice1 = float quantity * price
-
-let totalPrice = totalPrice1
-
-printfn "VALOR A PAGAR: R$ %.2f" totalPrice1
+printfn "VALOR A PAGAR: R$ %.2f" ((SplitString()) + (SplitString()))
