@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\VSVale\\.nuget\\packages\\": {}
+    "C:\\Users\\WarHorse\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\VSVale\\.projects\\UdemyCSharp\\w3schools\\test\\test.csproj",
+      "projectUniqueName": "C:\\Users\\WarHorse\\.projects\\UdemyCSharp\\w3schools\\test\\test.csproj",
       "projectName": "test",
-      "projectPath": "C:\\Users\\VSVale\\.projects\\UdemyCSharp\\w3schools\\test\\test.csproj",
-      "packagesPath": "C:\\Users\\VSVale\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\VSVale\\.projects\\UdemyCSharp\\w3schools\\test\\obj\\",
+      "projectPath": "C:\\Users\\WarHorse\\.projects\\UdemyCSharp\\w3schools\\test\\test.csproj",
+      "packagesPath": "C:\\Users\\WarHorse\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\WarHorse\\.projects\\UdemyCSharp\\w3schools\\test\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\VSVale\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\WarHorse\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
